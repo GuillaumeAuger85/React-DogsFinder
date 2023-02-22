@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DogsFinder/static/css/main.30948039.css",
+    "main.js": "/DogsFinder/static/js/main.0e0cc799.js",
+    "static/js/787.681c1c89.chunk.js": "/DogsFinder/static/js/787.681c1c89.chunk.js",
+    "static/media/nerdy.jpg": "/DogsFinder/static/media/nerdy.790d87f6290377d35dff.jpg",
+    "static/media/hazel.jpg": "/DogsFinder/static/media/hazel.56f12732a1234fceb49b.jpg",
+    "static/media/whiskey.jpg": "/DogsFinder/static/media/whiskey.7650f3f2b68e4bebacaa.jpg",
+    "static/media/tubby.jpg": "/DogsFinder/static/media/tubby.9c06bf82b050f49b0a43.jpg",
+    "index.html": "/DogsFinder/index.html",
+    "main.30948039.css.map": "/DogsFinder/static/css/main.30948039.css.map",
+    "main.0e0cc799.js.map": "/DogsFinder/static/js/main.0e0cc799.js.map",
+    "787.681c1c89.chunk.js.map": "/DogsFinder/static/js/787.681c1c89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30948039.css",
+    "static/js/main.0e0cc799.js"
+  ]
+}
