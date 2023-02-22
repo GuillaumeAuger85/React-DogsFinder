@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React-Dogs-Finder
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**REACT Router Exercise**
+
+## Try it [here](https://GuillaumeAuger85.github.io/React-DogsFinder)!
+
+**Screenshot:**
+
+![DogShelter](https://user-images.githubusercontent.com/49698792/220777073-3e2f5e30-f6f2-4eb3-b7b1-996aa0127c88.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
